@@ -25,5 +25,4 @@ Around 85M (53.12%) business is the total contribution to the bank from the regi
 
 
 TOOLS UTILIZED:
-Power BI
-Microsoft Excel
+Microsoft Power BI, Microsoft Excel
