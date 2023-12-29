@@ -1,12 +1,15 @@
 # Microsoft-Power-BI_Business-Analysis
-Background: You are a Business Analyst at MS Bank Ltd.
+BACKGROUND: 
+You are a Business Analyst at MS Bank Ltd.
 
-Details: Bank owner has asked you to analyse the bank data and come up key insights and observations which will help the bank roll new schemes to it's existing customers & also attract new customers.
+DETAILS: 
+Bank owner has asked you to analyse the bank data and come up key insights and observations which will help the bank roll new schemes to it's existing customers & also attract new customers.
 
-Task: Build a dashboard and analyse the bank data to fulfill the Bank Owner's requirement.
+TASK: 
+Build a dashboard and analyse the bank data to fulfill the Bank Owner's requirement.
 
+INSIGHTS:
 
-Applied Microsoft Power BI in drawing the following insights:
 1. Period July-December contributed to a total of 2966 numbers of customers i.e. 73% of the total existing customers with that being the peak period.
 
 2. Around 1955 (48.7%) of our customer base do a White collar job contributing to 78M (48.75%) to our business. And, around 1049 (26%) of our customer base do a Blue collar job contributing to 41M (25.6%) to our business.
@@ -19,6 +22,7 @@ Applied Microsoft Power BI in drawing the following insights:
 Around 85M (53.12%) business is the total contribution to the bank from the region. Another interesting fact is around 91% of our UK customers belong to the age group 25yrs to 45 yrs. Also, around 69.5% of our total existing our customers in the UK do a white collar job.
 
 6. Northern Ireland with a total of 5% of our customer base contributes the least with also the least amount of business of 8M (5%) generating from the region.
+
 
 TOOLS UTILIZED:
 Power BI
