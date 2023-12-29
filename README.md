@@ -1,7 +1,10 @@
 # Microsoft-Power-BI_Business-Analysis
-MS BANK Pvt. Ltd.
+Background: You are a Business Analyst at MS Bank Ltd.
 
-AIM:
+Details: Bank owner has asked you to analyse the bank data and come up key insights and observations which will help the bank roll new schemes to it's existing customers & also attract new customers.
+
+Task: Build a dashboard and analyse the bank data to fulfill the Bank Owner's requirement.
+
 
 Applied Microsoft Power BI in drawing the following insights:
 1. Period July-December contributed to a total of 2966 numbers of customers i.e. 73% of the total existing customers with that being the peak period.
